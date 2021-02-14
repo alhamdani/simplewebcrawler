@@ -1,0 +1,9 @@
+This is just a simple web crawler scripts.
+Its my first time making web crawler so expect that the code is not that clean.
+
+I put everything in one file so that we can easily the code on one page.
+
+I use BeautifulSoup4 as my libraries to crawl to web, since it has many tutorial and support and the code are readable.
+
+
+
